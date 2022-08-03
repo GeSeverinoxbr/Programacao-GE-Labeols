@@ -1,5 +1,5 @@
 body{
-  background-color: yellow
+  background-color: #ebf74f
 }
 
 h1{
@@ -7,9 +7,9 @@ h1{
   }
 
 p{
-  text-align: justify; font-size: 20px;
+  text-align: justify; font-size: 20px; color: #5a4e3c;
 }
 
 strong{
-  color: red;
+  color: #fc0284;
 }
