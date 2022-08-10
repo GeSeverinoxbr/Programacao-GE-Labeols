@@ -13,3 +13,9 @@ p{
 strong{
   color: #fc0284;
 }
+#SALAO{
+  width: 30%;
+  border: 5px solid #fc0284; margin: 10px;
+  margin-left: 180px;
+  padding: 5px;
+}
