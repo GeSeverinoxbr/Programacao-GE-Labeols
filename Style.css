@@ -19,3 +19,21 @@ strong{
   margin-left: 180px;
   padding: 5px;
 }
+.itens{
+	font-style: italic;
+}
+.servicos{
+	background:#FFFFFF;
+	padding: 20px;
+}
+
+ul{
+	display: inline-block;
+	vertical-align: top;
+	width: 20%;
+	margin-right: 15%;
+}
+
+.imagemcabelomasculino{
+	width: 50%;
+}
