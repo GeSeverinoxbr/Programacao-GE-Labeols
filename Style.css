@@ -1,9 +1,20 @@
 body{
-  background-color: #ebf74f
+
+}
+.texto{
+    background-color: #ebf74f
 }
 
 h1{
   text-align: center; color: blue; font-size: 40px;
+  }
+
+  .titulo-centralizado {
+    text-align: center;
+  }
+  h3{
+    font-style:italic;
+    border: 10px ridge #fc0284; margin: 10px;
   }
 
 p{
@@ -14,26 +25,33 @@ strong{
   color: #fc0284;
 }
 #SALAO{
-  width: 30%;
-  border: 5px solid #fc0284; margin: 10px;
-  margin-left: 180px;
-  padding: 5px;
+  width: 20%;
+  border: 20px ridge #fc0284; margin: 10px;
+  margin-left: 300px;
+  padding: 1px;
 }
 .itens{
 	font-style: italic;
 }
 .servicos{
 	background:#FFFFFF;
-	padding: 20px;
+	padding: 50px;
+  font-size: 30px
 }
 
 ul{
 	display: inline-block;
 	vertical-align: top;
 	width: 20%;
-	margin-right: 15%;
+	margin-right: 10%;
+  border: 20px double #fc0284; margin: 20px;
 }
 
 .imagemcabelomasculino{
-	width: 50%;
+	width: 28%;
+  border: 20px ridge #fc0284; margin: 1px;
+}
+.imagemcabelofeminino{
+	width: 30%;
+  border: 20px ridge #fc0284; margin: 1px;
 }
