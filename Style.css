@@ -1,8 +1,14 @@
 body{
 
 }
+header{
+      display: inline-block;
+}
+.cabeçalho{
+  background-color: #eed325;
+}
 .texto{
-    background-color: #ebf74f
+    background-color: #BBf74f
 }
 
 h1{
@@ -18,7 +24,7 @@ h1{
   }
 
 p{
-  text-align: justify; font-size: 20px; color: #5a4e3c;
+  text-align: justify; font-size: 20px; color: #5a4e38;
 }
 
 strong{
@@ -34,7 +40,7 @@ strong{
 	font-style: italic;
 }
 .servicos{
-	background:#FFFFFF;
+	background:#FFAAFF;
 	padding: 50px;
   font-size: 30px
 }
